@@ -1,0 +1,5 @@
+[project]
+ignore = .git
+
+[cxx]
+cppflags = -std=c++17
